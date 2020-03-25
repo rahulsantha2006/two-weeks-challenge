@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdd6275-dc81-4387-beac-eee258098b14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge2/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge1/MyProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge1/MyProgram1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/narwhals-challenge/.gradle/" />
     <ignored path="$PROJECT_DIR$/narwhals-challenge/build/" />
@@ -32,6 +30,7 @@
     <session id="-818723791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -39,41 +38,32 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="40" />
           <entry key="java" value="174" />
-          <entry key="txt" value="16" />
+          <entry key="txt" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="174" />
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="PLAIN_TEXT" value="129" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge2/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -383,6 +373,7 @@
         <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge/HelloWorld.java" />
         <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge1/MyProgram1.java" />
         <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge2/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge1/HelloWorld_Program1.java" />
       </list>
     </option>
   </component>
@@ -448,6 +439,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="rahul" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="two-weeks-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="two-weeks-challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="narwhals-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rahul" type="462c0819:PsiDirectoryNode" />
               <item name="challenge2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -459,7 +460,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585085864649" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585178746893" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -475,7 +476,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MultiplyTwoNumbers_Program3">
     <configuration name="AddTwoNumbers_Program2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rahul.challenge2.AddTwoNumbers_Program2" />
       <module name="narwhals-challenge_main" />
@@ -489,8 +490,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiplyTwoNumbers_Program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rahul.challenge3.MultiplyTwoNumbers_Program3" />
+      <module name="narwhals-challenge_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rahul.challenge3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AddTwoNumbers_Program2" />
+      <item itemvalue="Application.MultiplyTwoNumbers_Program3" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplyTwoNumbers_Program3" />
         <item itemvalue="Application.AddTwoNumbers_Program2" />
       </list>
     </recent_temporary>
@@ -520,12 +539,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585085452267</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The HelloWorld program and the AddTwoNumbers are complete">
+      <created>1585086051737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585086051737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -538,9 +563,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -561,7 +587,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="The HelloWorld program and the AddTwoNumbers are complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="The HelloWorld program and the AddTwoNumbers are complete" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/narwhals-challenge/build.gradle">
@@ -574,17 +601,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge1/MyProgram1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge2/AddTwoNumbers.java">
+    <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge2/AddTwoNumbers_Program2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge1/HelloWorld_Program1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
