@@ -4,8 +4,8 @@ public class MultiplyTwoNumbers_Program3 {
 
     public static void main(String[] args) {
 
-        int x = 3;
-        int y = 5;
+        double x = 3.5;
+        double y = 5.3;
 
         System.out.println(x*y);
     }
