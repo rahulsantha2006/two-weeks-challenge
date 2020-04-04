@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdd6275-dc81-4387-beac-eee258098b14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Program12example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/ColorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/Program13Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Calculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/narwhals-challenge/.gradle/" />
     <ignored path="$PROJECT_DIR$/narwhals-challenge/build/" />
@@ -31,40 +32,41 @@
     <session id="-818723791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="18" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="52" />
-          <entry key="java" value="2749" />
-          <entry key="txt" value="213" />
+          <entry key="dummy" value="65" />
+          <entry key="java" value="3051" />
+          <entry key="txt" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2749" />
-          <entry key="PLAIN_TEXT" value="265" />
+          <entry key="JAVA" value="3051" />
+          <entry key="PLAIN_TEXT" value="280" />
         </counts>
       </usages-collector>
     </session>
@@ -74,20 +76,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Calculator.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/Program13Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="153">
+              <caret line="9" column="55" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Program12example.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/ColorsExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="170">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -418,8 +426,11 @@
         <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge10/Array_Program10.java" />
         <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge11/InnerForLoop_Program11.java" />
         <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/ObjectClass.java" />
-        <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Calculator.java" />
+        <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/AnimalsExample.java" />
         <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Program12example.java" />
+        <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Calculator.java" />
+        <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/ColorsExample.java" />
+        <option value="$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/Program13Example.java" />
       </list>
     </option>
   </component>
@@ -487,16 +498,26 @@
               <item name="rahul" type="462c0819:PsiDirectoryNode" />
               <item name="challenge12" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="two-weeks-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="two-weeks-challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="narwhals-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rahul" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge13" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585937964330" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586025743840" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -512,7 +533,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program12example">
+  <component name="RunManager" selected="Application.Program13Example">
     <configuration name="Array_Program10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rahul.challenge10.Array_Program10" />
       <module name="narwhals-challenge_main" />
@@ -532,19 +553,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.rahul.challenge8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoop_Program9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rahul.challenge9.ForLoop_Program9" />
-      <module name="narwhals-challenge_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rahul.challenge9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -578,20 +586,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program13Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rahul.challenge13.Program13Example" />
+      <module name="narwhals-challenge_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rahul.challenge13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ForLoop_Program9" />
       <item itemvalue="Application.ForLoopFriends_Program8" />
       <item itemvalue="Application.Array_Program10" />
       <item itemvalue="Application.InnerForLoop_Program11" />
       <item itemvalue="Application.Program12example" />
+      <item itemvalue="Application.Program13Example" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program13Example" />
         <item itemvalue="Application.Program12example" />
         <item itemvalue="Application.InnerForLoop_Program11" />
         <item itemvalue="Application.Array_Program10" />
         <item itemvalue="Application.ForLoopFriends_Program8" />
-        <item itemvalue="Application.ForLoop_Program9" />
       </list>
     </recent_temporary>
   </component>
@@ -669,21 +690,29 @@
       <option name="project" value="LOCAL" />
       <updated>1585850355308</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Challenge 12 complete">
+      <created>1585938038181</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585938038181</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.23643725" />
-      <window_info id="Structure" order="1" sideWeight="0.5017794" side_tool="true" weight="0.23238866" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4960212" visible="true" weight="0.24048583" />
+      <window_info id="Structure" order="1" sideWeight="0.5039788" side_tool="true" visible="true" weight="0.24048583" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" weight="0.32955465" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.37544483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.50711745" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -746,7 +775,38 @@
     <MESSAGE value="Challenge 5 complete" />
     <MESSAGE value="Challenges 6-10 are complete" />
     <MESSAGE value="Challenge 11 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge 11 complete" />
+    <MESSAGE value="Challenge 12 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge 12 complete" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/ColorsExample.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/ColorsExample.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/Program13Example.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/Program13Example.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -836,15 +896,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge12/Program12example.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/ColorsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/narwhals-challenge/src/main/java/com/rahul/challenge13/Program13Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
